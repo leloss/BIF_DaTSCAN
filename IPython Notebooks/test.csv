@@ -1,0 +1,114 @@
+PATNO,GENDER,DIAGNOSIS,CLINICAL_EVENT,TYPE,TESTNAME,TESTVALUE,UNITS,RUNDATE,PROJECTID,PI_NAME,PI_INSTITUTION,update_stamp
+3000,Female,Control,Visit 04,Plasma,LDL,121,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:52.0
+3000,Female,Control,Screening Visit,DNA,rs11868035,A/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Visit 02,Plasma,EGF ELISA,3.53,pg/mL,2/18/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:50.0
+3000,Female,Control,Screening Visit,DNA,rs35870237_LRRK2_p.I2020T,T/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,Plasma,Total Cholesterol,214,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:51.0
+3000,Female,Control,Screening Visit,DNA,rs329648,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,Cerebrospinal fluid,CSF Alpha-synuclein,2272.32,pg/ml,10/30/2013,111,Peggy Taylor,Covance,20:31.0
+3000,Female,Control,Visit 02,Plasma,Apolipoprotein A1,170,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:50.0
+3000,Female,Control,Baseline Collection,Cerebrospinal fluid,CSF Hemoglobin,479.76,ng/ml,7/2/2013,102,Peggy Taylor,Covance,14:49.0
+3000,Female,Control,Screening Visit,DNA,rs8192591,C/C,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,rs34311866,A/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,ApoE_Genotype,e3/e3,NA,9/27/2012,104,Andrew Singleton,National Institutes of Aging,14:02.0
+3000,Female,Control,Baseline Collection,RNA,DJ-1,621,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Baseline Collection,RNA,FBXO7-001,159,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Screening Visit,DNA,rs10797576,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,SRCAP,208,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Screening Visit,DNA,rs12456492,A/A,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,SNCA-E3E4,4211,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Visit 04,Plasma,Triglycerides,205,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:52.0
+3000,Female,Control,Screening Visit,DNA,rs11158026,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,Plasma,Apolipoprotein A1,186,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:50.0
+3000,Female,Control,Baseline Collection,RNA,SNCA-007,9,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Screening Visit,DNA,rs34995376_LRRK2_p.R1441H,G/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,rs199347,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Visit 04,Plasma,HDL,68,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:51.0
+3000,Female,Control,Screening Visit,DNA,rs6812193,C/C,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,Cerebrospinal fluid,Abeta 42,408.1,pg/ml,10/24/2013,110,Les Shaw,University of Pennsylvania,20:31.0
+3000,Female,Control,Screening Visit,DNA,rs1955337,G/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,rs76763715_GBA_p.N370S,T/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,SCORE,-0.0223107,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,GUSB,82,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Screening Visit,DNA,rs14235,A/A,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Visit 02,Plasma,LDL,126,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:52.0
+3000,Female,Control,Screening Visit,DNA,rs34637584_LRRK2_p.G2019S,G/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Visit 04,Plasma,Total Cholesterol,216,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:51.0
+3000,Female,Control,Screening Visit,DNA,rs118117788,C/C,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Visit 04,Plasma,EGF ELISA,4.16,pg/mL,5/6/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:50.0
+3000,Female,Control,Baseline Collection,RNA,DHPR,78,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Screening Visit,DNA,rs3910105,C/C,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,ZNF746,181,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Baseline Collection,RNA,RPL13,188,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Baseline Collection,RNA,FBXO7-008,58,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Screening Visit,DNA,rs34884217,T/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,SNCA-3UTR-2,105,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Baseline Collection,Plasma,LDL,117,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:52.0
+3000,Female,Control,Screening Visit,DNA,rs823118,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,FBXO7-010,124,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Baseline Collection,Cerebrospinal fluid,CSF Hemoglobin,484.87,ng/ml,9/27/2011,102,Peggy Taylor,Covance,44:24.0
+3000,Female,Control,Screening Visit,DNA,rs17649553,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,Cerebrospinal fluid,p-Tau181P,16.1,pg/ml,10/24/2013,110,Les Shaw,University of Pennsylvania,20:31.0
+3000,Female,Control,Screening Visit,DNA,rs11060180,A/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Visit 02,Plasma,Triglycerides,128,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:52.0
+3000,Female,Control,Visit 04,Plasma,Apolipoprotein A1,187,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:50.0
+3000,Female,Control,Screening Visit,DNA,rs76904798,C/C,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,rs115462410,C/C,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,rs11724635,A/A,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,GLT25D1,171,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Screening Visit,DNA,rs6430538,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Visit 02,Plasma,HDL,59,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:51.0
+3000,Female,Control,Baseline Collection,Plasma,Triglycerides,153,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:52.0
+3000,Female,Control,Screening Visit,DNA,rs114138760,G/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,rs55785911,A/A,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,FBXO7-005,57,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Baseline Collection,Cerebrospinal fluid,Total tau,54.3,pg/ml,10/24/2013,110,Les Shaw,University of Pennsylvania,20:31.0
+3000,Female,Control,Screening Visit,DNA,rs2414739,A/A,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,rs35801418_LRRK2_p.Y1699C,A/A,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,UBC,15309,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Baseline Collection,RNA,FBXO7-007,12,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Baseline Collection,Plasma,EGF ELISA,0,pg/mL,2/18/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:50.0
+3000,Female,Control,Baseline Collection,Plasma,HDL,65,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:51.0
+3000,Female,Control,Baseline Collection,RNA,SNCA-E4E6,987,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Screening Visit,DNA,rs591323,A/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Baseline Collection,RNA,MON1B,103,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Visit 02,Plasma,Total Cholesterol,211,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:51.0
+3000,Female,Control,Baseline Collection,RNA,SNCA-3UTR-1,406,counts,6/12/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3000,Female,Control,Screening Visit,DNA,rs356181,T/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,rs12637471,G/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,rs71628662,T/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3000,Female,Control,Screening Visit,DNA,SNCA_multiplication,NormalCopyNumber,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Baseline Collection,RNA,FBXO7-005,124,counts,6/25/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3001,Male,PD,Screening Visit,DNA,rs11158026,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Baseline Collection,RNA,UBC,28706,counts,6/25/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3001,Male,PD,Screening Visit,DNA,rs34995376_LRRK2_p.R1441H,G/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Visit 02,Plasma,EGF ELISA,4.74,pg/mL,2/18/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:50.0
+3001,Male,PD,Baseline Collection,RNA,MON1B,202,counts,6/25/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3001,Male,PD,Screening Visit,DNA,rs199347,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Baseline Collection,RNA,FBXO7-007,19,counts,6/25/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3001,Male,PD,Baseline Collection,RNA,SNCA-E4E6,1493,counts,6/25/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3001,Male,PD,Baseline Collection,RNA,SNCA-3UTR-1,1593,counts,6/25/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3001,Male,PD,Screening Visit,DNA,rs6812193,C/C,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Screening Visit,DNA,rs1955337,G/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Screening Visit,DNA,SCORE,-0.0183143,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Screening Visit,DNA,rs76763715_GBA_p.N370S,T/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Screening Visit,DNA,rs14235,A/A,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Visit 02,Cerebrospinal fluid,CSF Alpha-synuclein,2170.69,pg/ml,9/20/2013,111,Peggy Taylor,Covance,20:31.0
+3001,Male,PD,Visit 04,Plasma,Triglycerides,68,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:52.0
+3001,Male,PD,Baseline Collection,Cerebrospinal fluid,CSF Hemoglobin,46.55,ng/ml,9/27/2011,102,Peggy Taylor,Covance,44:24.0
+3001,Male,PD,Visit 04,Plasma,Total Cholesterol,233,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:51.0
+3001,Male,PD,Screening Visit,DNA,rs34637584_LRRK2_p.G2019S,G/G,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Baseline Collection,Cerebrospinal fluid,p-Tau181P,30.1,pg/ml,10/24/2013,110,Les Shaw,University of Pennsylvania,20:31.0
+3001,Male,PD,Visit 04,Plasma,Apolipoprotein A1,136,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:50.0
+3001,Male,PD,Screening Visit,DNA,rs118117788,C/C,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Screening Visit,DNA,rs3910105,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Visit 02,Plasma,Total Cholesterol,215,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:51.0
+3001,Male,PD,Visit 04,Plasma,LDL,162,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:52.0
+3001,Male,PD,Visit 02,Plasma,Triglycerides,142,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:52.0
+3001,Male,PD,Screening Visit,DNA,rs34884217,G/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Visit 04,Plasma,HDL,46,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:51.0
+3001,Male,PD,Baseline Collection,RNA,DJ-1,1222,counts,6/25/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3001,Male,PD,Baseline Collection,RNA,FBXO7-001,280,counts,6/25/2013,105,Clemens Scherzer,"Harvard Medical School, Brigham & Womenƒ??s Hospital",25:52.0
+3001,Male,PD,Screening Visit,DNA,rs823118,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Screening Visit,DNA,rs17649553,C/T,NA,4/1/2014,106,Andrew Singleton,National Institutes of Aging,13:40.0
+3001,Male,PD,Visit 02,Plasma,Apolipoprotein A1,145,mg/dL,2/27/2014,112,Alice Chen-Plotkin,Penn Neurological Institute,30:50.0
