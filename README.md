@@ -1,4 +1,4 @@
 BIF_DaTSCAN
 ===========
 
-Michael J Fox Foundation DaTSCAN analysitcs code
+Michael J Fox Foundation DaTSCAN analytics code
